@@ -1,8 +1,6 @@
 import pandas as pd
 import datetime
 import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 
 SENDER = "nielswartz11@gmail.com"
 RECEIVER = "nielswartz7@gmail.com"
